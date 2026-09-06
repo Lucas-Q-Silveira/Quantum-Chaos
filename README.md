@@ -24,7 +24,7 @@ Comparing panels across spin $S$ probes how the semiclassical limit is approache
 
 ## The model
 
-`SpinModel` is a TeNPy `CouplingMPOModel` on an open chain of `L` spin-$S$ sites (no conserved
+`SpinModel` is a TeNPy `CouplingMPOModel` on an open chain of `L` spin- $S$ sites (no conserved
 quantum numbers, so any field direction is allowed):
 
 $$H = \sum_{i} \sum_{\alpha} J_\alpha S^\alpha_i S^\alpha_{i+1} + \sum_{i} \sum_{\alpha} N_\alpha S^\alpha_i S^\alpha_{i+2} + \sum_{i} \sum_{\alpha} A_\alpha \left(S^\alpha_i\right)^2+ \sum_{i} \left( h_x S^x_i + h_z S^z_i \right) $$
