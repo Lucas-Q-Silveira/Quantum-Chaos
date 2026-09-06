@@ -12,9 +12,9 @@ Comparing panels across spin $S$ probes how the semiclassical limit is approache
 ![Time-averaged Husimi Q-function and Bloch trajectories across spin S](image.png)
 
 <p align="center">
-  <em>Top two rows: time-averaged Husimi $Q/Q_{\max}$ on the Bloch sphere for both sites of an
-  $L = 2$ chain, across $S = 1/2 \dots 5/2$. The marker shows the initial coherent-state direction.
-  Bottom row: the corresponding trajectory of $\langle \vec{S} \rangle(t)$.</em>
+  <em>
+    Husimi Q function and respective trajectories across different spin values
+  </em>
 </p>
 
 
