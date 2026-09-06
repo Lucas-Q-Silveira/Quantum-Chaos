@@ -9,14 +9,6 @@ The Husimi distribution is the phase-space picture of the reduced state: for an 
 "birthmarked" states leave sharp structure concentrated near the underlying classical orbits.
 Comparing panels across spin $S$ probes how the semiclassical limit is approached.
 
-![Time-averaged Husimi Q-function and Bloch trajectories across spin S](image.png)
-
-<p align="center">
-  <em>Top two rows: time-averaged Husimi $Q/Q_{\max}$ on the Bloch sphere for both sites of an
-  $L = 2$ chain, across $S = 1/2 \dots 5/2$. The marker shows the initial coherent-state direction.
-  Bottom row: the corresponding trajectory of $\langle \vec{S} \rangle(t)$.</em>
-</p>
-
 <p align="center">
   <em>See <a href="Data.pdf">Data.pdf</a> for a gallery of generated figures (14 pages).</em>
 </p>
